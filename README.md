@@ -29,12 +29,12 @@ Sales.
 
 ![Departures_by_year](https://user-images.githubusercontent.com/68127033/92338164-810dd600-f07c-11ea-8731-6ba3872ced49.PNG)
 
-1. Assuming a retirement age of 68, only 23% of the projected retirement population (16,981 people) are scheduled to leave next year.  
-	The departures also follow a uniform pattern over the course of the next 4 years.  This means that only about 7%
-	of the active staff is departing next year, a much more manageable figure than previously anticipated. 
+1. Assuming a retirement age of 68, only 23% of the projected retirement population (16,981 people) are scheduled to leave next year, 
+which is only about 7% of the current active staff. The number of departures per year is also fairly constant over the next 4 years, which
+should help facilitate a smooth transition. 
 
 2. Whether or not we have a large enough mentoring population will depend on how many of the projected departures we intend
-	to replace.  Currently, we have average of 1 mentor per 11 departures (or potential new hires.) The ratio for senior positions is
-	higher than the rest of the population (15/1 for Senior Engineers, 19/1 for Senior Staff) but generally under 10/1 for all other
-	titles.  Depending on where we want the ratio of mentor to new hires to be, we may consider widening the parameters and creating
-	a bigger pool of mentors.
+to replace.  Currently, we have average of 1 mentor per 11 departures (or potential new hires.) The ratio for senior positions is
+higher than the rest of the population (15/1 for Senior Engineers, 19/1 for Senior Staff) but generally under 10/1 for all other
+titles.  Depending on where we want the ratio of mentor to new hires to be, we may consider widening the parameters and creating
+a bigger pool of mentors.
