@@ -47,7 +47,8 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date = '99
 ORDER BY e.emp_no, de.to_date DESC;
 
 --DELIVERABLE # 3 
-SELECT AVG (EXTRACT(YEAR FROM NOW()) - EXTRACT(YEAR FROM from_date)), title
+SELECT title, AVG (EXTRACT(YEAR FROM NOW()) - EXTRACT(YEAR FROM from_date))
+INTO retiree_exp
 FROM retirement_titles
 GROUP BY title;
 
@@ -63,5 +64,5 @@ INTO mentors_by_title
 FROM mentorship_eligibility
 GROUP BY title;
 
--- ASSIGNMENT OVER
+
 
