@@ -46,7 +46,22 @@ ON e.emp_no = ti.emp_no
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no, de.to_date DESC;
 
+--DELIVERABLE # 3 
+SELECT AVG (EXTRACT(YEAR FROM NOW()) - EXTRACT(YEAR FROM from_date)), title
+FROM retirement_titles
+GROUP BY title;
 
+SELECT u.title, count(u.last_name) as retirees, EXTRACT(YEAR FROM birth_date)as b_year
+INTO retirees_by_year
+FROM unique_titles as u
+INNER JOIN employees as e
+on u.emp_no = e.emp_no
+GROUP BY title,b_year;
 
+select title, count(emp_no)
+INTO mentors_by_title
+FROM mentorship_eligibility
+GROUP BY title;
 
+-- ASSIGNMENT OVER
 
