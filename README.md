@@ -8,22 +8,28 @@ departments and identify members of the organization to help ease the organizati
 
 ## Results:
 
+![Departures_by_title](https://user-images.githubusercontent.com/68127033/92338163-810dd600-f07c-11ea-9bfe-aa24dd4a6991.PNG)
 
+
+![Departures_by_dept](https://user-images.githubusercontent.com/68127033/92338162-80753f80-f07c-11ea-9b12-46fb8bb8e7e2.PNG)
 
 1. About 30% of the company is projected to be retiring in the near future.  
 	
-2. The potential departures do not skew towards anyone one department or title; they are evenly distributed
-	accross departments/titles.
+2. The potential departures do not skew towards anyone one department or title (see % retiring column); they are evenly 
+distributed.
 	
-3. Approximately 70% of the people retiring are classified as "Senior", suggesting a potentially significant loss
-	 leadership, knowledge, and experience.
+3. Approximately 70% of the people retiring have "senior" titles, suggesting a potentially significant loss of 
+leadership, knowledge, and experience.  63% of the impending retirements come from 3 departments: Development, Production, and
+Sales.
 	
 4. The average experience for a departing retiree is approximately 24.2 years.
   
 
 ## Summary:
 
-1. Assuming a retirement age of 68, only 23% of the projected retirement population (16,981 people) is scheduled to leave next year.  
+![Departures_by_year](https://user-images.githubusercontent.com/68127033/92338164-810dd600-f07c-11ea-8731-6ba3872ced49.PNG)
+
+1. Assuming a retirement age of 68, only 23% of the projected retirement population (16,981 people) are scheduled to leave next year.  
 	The departures also follow a uniform pattern over the course of the next 4 years.  This means that only about 7%
 	of the active staff is departing next year, a much more manageable figure than previously anticipated. 
 
