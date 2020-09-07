@@ -8,6 +8,8 @@ departments and identify members of the organization to help ease the organizati
 
 ## Results:
 
+
+
 1. About 30% of the company is projected to be retiring in the near future.  
 	
 2. The potential departures do not skew towards anyone one department or title; they are evenly distributed
